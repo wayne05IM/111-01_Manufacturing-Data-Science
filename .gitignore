@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+*.pptx
+._*
+.ipynb_checkpoints
+*.pages
+*.html
+*.pages
+*.zip
